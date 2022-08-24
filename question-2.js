@@ -1,6 +1,6 @@
 //Question 2
 
-const key = "57c27ce3640540d3b4d65f5802d59b7c1";
+const key = "57c27ce3640540d3b4d65f5802d59b7c";
 const url = `https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=${key}`;
 
 const resultsContainer = document.querySelector(".container");
